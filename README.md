@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Naman Jain
 - 👀 I’m interested in **Programming and qa manual testing** 
-- 🌱 I’m currently learning **Manual testing and Java programming**
+- 🌱 I have knowledge in core java
+- I have knowledge of API Testing using POSTMAN Tool
+- I have knowledge of  Automation of api testing using REST ASSURED LIBRARY
